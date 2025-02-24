@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Declaração de variáveis para a primeira carta
+    //primeira carta
     char estado1;
     char codigo1[5];  // Ex.: "A01", "B03"
     char nome1[50];   // Armazena o nome da cidade
